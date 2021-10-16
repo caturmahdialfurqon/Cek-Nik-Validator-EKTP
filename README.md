@@ -7,15 +7,20 @@ Script ini saya buat berdasarkan cara membaca NIK Dari digit ke digit.
 
 Penjabaran : Silahkan kunjungi website => https://id.wikipedia.org/wiki/Nomor_Induk_Kependudukan
 
-Cara penggunakan : Bisa bisa anda lihat di Video (gif) di bawah ini.
+Cara penggunakan : 
+
+=> git clone https://github.com/caturmahdialfurqon/Cek-Nik-Validator-EKTP.git
+=> cd Cek-Nik-Validator-EKTP
+=> php NIK.php
+
+Atau bisa anda lihat Video di link dibawah ini.
 
 NOTE : Silahkan untuk mengclone repositori ke directori offline anda terlebih dahulu. 
 
-## 👋 screenshot (gif) result for this script
+## 👋 Video Cara Penggunaan Script
 
 [![HOW TO USE](https://img.shields.io/badge/LINK-informational.svg?style=flat)](http://cloud.movavi.com/show/99ded7bd-becd-460b-ba91-5bd1830352cf)
 <br>
-
 
 ## 🤜🏻🤛🏻 For Support
 
