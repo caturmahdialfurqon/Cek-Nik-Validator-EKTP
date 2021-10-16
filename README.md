@@ -10,8 +10,11 @@ Penjabaran : Silahkan kunjungi website => https://id.wikipedia.org/wiki/Nomor_In
 Cara penggunakan : 
 
 => git clone https://github.com/caturmahdialfurqon/Cek-Nik-Validator-EKTP.git
+<br>
 => cd Cek-Nik-Validator-EKTP
+<br>
 => php NIK.php
+<br>
 
 Atau bisa anda lihat Video di link dibawah ini.
 
