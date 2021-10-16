@@ -7,8 +7,10 @@ Script ini saya buat berdasarkan cara membaca NIK Dari digit ke digit.
 
 Penjabaran : Silahkan kunjungi website => https://id.wikipedia.org/wiki/Nomor_Induk_Kependudukan
 
-Cara penggunakan : 
+Cara penggunaaan : 
 
+=> Open Terminal
+<br>
 => git clone https://github.com/caturmahdialfurqon/Cek-Nik-Validator-EKTP.git
 <br>
 => cd Cek-Nik-Validator-EKTP
@@ -18,7 +20,11 @@ Cara penggunakan :
 
 Atau bisa anda lihat Video di link dibawah ini.
 
-NOTE : Silahkan untuk mengclone repositori ke directori offline anda terlebih dahulu. 
+NOTE : Silahkan untuk mengclone repositori ke directori offline anda terlebih dahulu.
+<br>
+=> Script tidak menggunakan parsing, saya pikir terlalu sederhana dan tidak perlu parsing.
+karena bisa digunakan cara yang lebih sederhana(simple). :D lihat : #rumus.php
+<br>
 
 ## 👋 Video Cara Penggunaan Script
 
