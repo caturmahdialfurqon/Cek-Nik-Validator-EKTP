@@ -13,11 +13,8 @@ NOTE : Silahkan untuk mengclone repositori ke directori offline anda terlebih da
 
 ## 👋 screenshot (gif) result for this script
 
-<img src="/SRC/NC.gif" width="410" height="624">
-
-[![VIDEO LINK ](http://cloud.movavi.com/show/99ded7bd-becd-460b-ba91-5bd1830352cf)]
-
-http://cloud.movavi.com/show/99ded7bd-becd-460b-ba91-5bd1830352cf
+[![HOW TO USE](https://img.shields.io/badge/LINK-informational.svg?style=flat)](http://cloud.movavi.com/show/99ded7bd-becd-460b-ba91-5bd1830352cf)
+<br>
 
 
 ## 🤜🏻🤛🏻 For Support
